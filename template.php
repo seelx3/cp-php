@@ -8,7 +8,6 @@ function main() {
 /**
  * Class Scanner
  */
-
 class Scanner {
   private $arr = [];
   private $count = 0;
@@ -38,7 +37,6 @@ class Scanner {
 /**
  * Class Output
  */
-
 class Output {
   public static function println($str) {
     echo $str . "\n";
@@ -48,5 +46,4 @@ class Output {
 /**
  * Entry point
  */
-
 main();
